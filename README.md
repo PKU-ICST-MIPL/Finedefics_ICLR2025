@@ -14,7 +14,7 @@
     <a href="http://39.108.48.32/mipl/pengyuxin"><strong>Yuxin Peng</strong></a>
   </p>
   <h2 align="center">ICLR 2025</h2>
-  <h3 align="center"><a href="https://arxiv.org/abs/2401.13837">Paper</a> | <a href="https://openreview.net/forum?id=c7DND1iIgb">OpenReview</a> </h3>
+  <h3 align="center"><a href="https://arxiv.org/abs/2501.15140">Paper</a> | <a href="https://openreview.net/forum?id=p3NKpom1VL">OpenReview</a> </h3>
 <div align="center"></div>
 <p align="center">
   <p>
