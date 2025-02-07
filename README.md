@@ -1,8 +1,6 @@
 <!-- PROJECT LOGO -->
 
 <p align="center">
-
-
   <h1 align="center">Analyzing and Boosting the Power of Fine-Grained Visual Recognition for Multi-modal Large Language Models</h1>
   <p align="center">
     <a href="http://39.108.48.32/mipl/news/news.php?id=CHhehulingxiao"><strong>Hulingxiao He</strong></a>
@@ -29,7 +27,7 @@
 
 
 ## 📣 News:
-- [01/23/2024] Our work is accepted to <a href="https://iclr.cc/Conferences/2024"><strong>ICLR 2025</strong></a> 🌼! Code is coming soon. See you in Singapore this April!
+- [01/23/2025] Our work is accepted to <a href="https://iclr.cc/Conferences/2025"><strong>ICLR 2025</strong></a> 🌼! Code is coming soon. See you in Singapore this April!
 
 
 
