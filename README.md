@@ -14,7 +14,7 @@
     <a href="http://39.108.48.32/mipl/pengyuxin"><strong>Yuxin Peng</strong></a>
   </p>
   <h2 align="center">ICLR 2025</h2>
-  <h3 align="center"><a href="https://openreview.net/forum?id=p3NKpom1VL">OpenReview</a> | <a href="https://arxiv.org/abs/2501.15140">Paper</a>  </h3>
+  <h3 align="center"><a href="https://openreview.net/forum?id=p3NKpom1VL">OpenReview</a> | <a href="https://arxiv.org/abs/2501.15140">Paper</a> | <a href="https://huggingface.co/StevenHH2000/Finedefics">Model</a> </h3>
 <div align="center"></div>
 <p align="center">
   <p>
@@ -27,7 +27,7 @@
 
 
 ## 📣 News
-- [02/12/2025] We release the evaluation code.
+- [02/12/2025] We release the model and evaluation code.
 - [01/23/2025] Our work is accepted to <a href="https://iclr.cc/Conferences/2025"><strong>ICLR 2025</strong></a> 🌼! Code is coming soon. See you in Singapore this April!
 
 
@@ -45,13 +45,12 @@ Requirements can be found in [requirements.txt](FOCI-Benchmark/requirements.txt)
 #### 3. Running the Benchmark
 
 
-An example of evaluating on `flowers102` dataset is:
+An example of evaluating on `dog-120` dataset is:
 ```
-python run_ic_bench.py --model=path/to/model --dataset=flowers102 --prompt_query='Which of these flowers is shown in the image?' --image_root=path/to/flower102 --batchsize=4
+python run_ic_bench.py --model=/path/to/model --dataset=dog-120 --prompt_query='Which of these dogs is shown in the image?' --image_root=/path/to/dog-120 --batchsize=4
 ```
 
-Note: Avaliable datasets are `flowers102, fgvc_aircraft,    
-stanford_cars, oxford_pet, dog-120, bird-200, imagenet-rendition, imagenet-adversarial, imagenet-sketch, geode`.
+Note: Avaliable datasets are `dog-120, bird-200, fgvc_aircraft, flowers102, oxford_pet, stanford_cars, imagenet-rendition, imagenet-adversarial, imagenet-sketch`.
 
 See [scripts](FOCI-Benchmark/scripts/Finedefics.sh) for examples of evaluating Finedefics on all benchmark datasets.
 

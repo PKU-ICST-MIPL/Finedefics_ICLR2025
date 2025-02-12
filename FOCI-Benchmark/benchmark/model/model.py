@@ -13,7 +13,7 @@ from benchmark.model.model_internlm_xcomposer2 import InternLMXComposer2ForCausa
 
 
 def load_model(args):
-    if "idefics2" in args.model:
+    if "idefics2" in args.model or "Finedefics" in args.model:
         return Idefics2Model(args)
     elif "idefics" in args.model:
         return IdeficsModel(args)
