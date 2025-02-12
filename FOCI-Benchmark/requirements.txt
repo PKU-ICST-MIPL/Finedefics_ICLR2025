@@ -1,4 +1,0 @@
-torch
-torchvision
-open-clip-torch>=2.24.0
-transformers>=4.42.0
