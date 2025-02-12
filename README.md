@@ -27,7 +27,7 @@
 
 
 ## 📣 News
-- [02/12/2025] We release the model and evaluation code.
+- [02/12/2025] We release the model <a href="https://huggingface.co/StevenHH2000/Finedefics"><strong>Finedefics</strong></a> and evaluation code.
 - [01/23/2025] Our work is accepted to <a href="https://iclr.cc/Conferences/2025"><strong>ICLR 2025</strong></a> 🌼! Code is coming soon. See you in Singapore this April!
 
 
