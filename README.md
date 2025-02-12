@@ -26,7 +26,7 @@
 <br>
 
 
-## 📣 News:
+## 📣 News
 - [02/12/2025] We release the evaluation code.
 - [01/23/2025] Our work is accepted to <a href="https://iclr.cc/Conferences/2025"><strong>ICLR 2025</strong></a> 🌼! Code is coming soon. See you in Singapore this April!
 
