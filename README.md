@@ -3,15 +3,15 @@
 <p align="center">
   <h1 align="center">Analyzing and Boosting the Power of Fine-Grained Visual Recognition for Multi-modal Large Language Models</h1>
   <p align="center">
-    <a href="http://39.108.48.32/mipl/news/news.php?id=CHhehulingxiao"><strong>Hulingxiao He</strong></a>
+    <a href="http://39.108.48.32/mipl/news/news.php?id=EGhehulingxiao"><strong>Hulingxiao He</strong></a>
     ·
-    <a href="http://39.108.48.32/mipl/news/news.php?id=CHligeng"><strong>Geng Li</strong></a>
+    <a href="http://39.108.48.32/mipl/news/news.php?id=EGligeng"><strong>Geng Li</strong></a>
     ·
-    <a href="http://39.108.48.32/mipl/news/news.php?id=CHgengzijun"><strong>Zijun Geng</strong></a>
+    <a href="http://39.108.48.32/mipl/news/news.php?id=EGgengzijun"><strong>Zijun Geng</strong></a>
     ·
-    <a href="http://39.108.48.32/XuWebsite/"><strong>Jinglin Xu</strong></a>
+    <a href="https://github.com/xujinglin"><strong>Jinglin Xu</strong></a>
     ·
-    <a href="http://39.108.48.32/mipl/pengyuxin"><strong>Yuxin Peng</strong></a>
+    <a href="http://39.108.48.32/mipl/yuxinpeng/"><strong>Yuxin Peng</strong></a>
   </p>
   <h2 align="center">ICLR 2025</h2>
   <h3 align="center"><a href="https://openreview.net/forum?id=p3NKpom1VL">OpenReview</a> | <a href="https://arxiv.org/abs/2501.15140">Paper</a> | <a href="https://huggingface.co/StevenHH2000/Finedefics">Model</a> </h3>
