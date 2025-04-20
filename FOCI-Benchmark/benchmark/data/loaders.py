@@ -1052,15 +1052,15 @@ DATASET_TO_LOADER = {
     "imagenet-adversarial": load_imagenet,
     "imagenet-sketch": load_imagenet,
     "food101": load_food101,
-    "flowers102": load_flowers102,
-    "fgvc_aircraft": load_fgvc_aircraft,
-    "stanford_cars": load_stanford_cars,
-    "oxford_pet": load_oxford_pet,
+    "flower-102": load_flowers102,
+    "aircraft-102": load_fgvc_aircraft,
+    "car-196": load_stanford_cars,
+    "pet-37": load_oxford_pet,
     "geode": load_geode,
     "imagenet-6k-animal": load_imagenet6k_animal,
     "imagenet-6k-plant": load_imagenet6k_plant,
     "imagenet-6k-food": load_imagenet6k_food,
     "imagenet-6k-artifact": load_imagenet6k_artifact,
-    "dogs_120":load_dogs_120,
-    "bird_200":load_bird_200
+    "dog-120":load_dogs_120,
+    "bird-200":load_bird_200
 }

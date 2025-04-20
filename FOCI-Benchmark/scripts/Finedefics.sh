@@ -1,72 +1,47 @@
-# Dog-120
+# Aircraft-102
 python run_ic_bench.py 
 --model=/path/to/model
---dataset=dogs_120 
---prompt_query='Which of these dogs is shown in the image?' 
---image_root=/media/gregor/cache1/icbench/dogs_120 
+--dataset=aircraft-102 
+--prompt_query='Which of these aircrafts is shown in the image?' 
+--image_root=Finedefics_ICLR2025/data/aircraft-102
 --batchsize=2
 
 # Bird-200
 python run_ic_bench.py 
 --model=/path/to/model
---dataset=bird_200 
+--dataset=bird-200
 --prompt_query='Which of these birds is shown in the image?' 
---image_root=/media/gregor/cache1/icbench/bird_200 
---batchsize=2
-
-# Aircraft-102
-python run_ic_bench.py 
---model=/path/to/model
---dataset=fgvc_aircraft 
---prompt_query='Which of these aircrafts is shown in the image?' 
---image_root=/media/gregor/cache1/icbench/fgvc_aircraft 
---batchsize=2
-
-# Flower-102
-python run_ic_bench.py 
---model=/path/to/model
---dataset=flowers102 
---prompt_query='Which of these flowers is shown in the image?' 
---image_root=/media/gregor/cache1/icbench/flower102 
---batchsize=4
-
-# Pet-37
-python run_ic_bench.py 
---model=/path/to/model 
---dataset=oxford_pet 
---prompt_query='Which of these pets is shown in the image?' 
---image_root=/media/gregor/cache1/icbench/oxford-pet 
+--image_root=Finedefics_ICLR2025/data/bird-200
 --batchsize=2
 
 # Car-196
 python run_ic_bench.py 
 --model=/path/to/model
---dataset=stanford_cars 
+--dataset=car-196
 --prompt_query='Which of these cars is shown in the image?' 
---image_root=/media/gregor/cache1/icbench/stanford-cars 
+--image_root=Finedefics_ICLR2025/data/car-196
 --batchsize=2
 
-# IN-rendition
+# Dog-120
 python run_ic_bench.py 
 --model=/path/to/model
---dataset=imagenet-rendition 
---prompt_query='Which of these choices is shown in the image?' 
---image_root=/media/gregor/cache1/icbench/imagenet-r 
---batchsize=4
+--dataset=dog-120
+--prompt_query='Which of these dogs is shown in the image?' 
+--image_root=Finedefics_ICLR2025/data/dog-120
+--batchsize=2
 
-# IN-adversarial
+# Flower-102
 python run_ic_bench.py 
 --model=/path/to/model
---dataset=imagenet-adversarial 
---prompt_query='Which of these choices is shown in the image?' 
---image_root=/media/gregor/cache1/icbench/imagenet-a 
---batchsize=4
+--dataset=flower-102
+--prompt_query='Which of these flowers is shown in the image?' 
+--image_root=Finedefics_ICLR2025/data/flower-102
+--batchsize=2
 
-# IN-sketch
+# Pet-37
 python run_ic_bench.py 
---model=/path/to/model
---dataset=imagenet-sketch 
---prompt_query='Which of these choices is shown in the image?' 
---image_root=/media/gregor/cache1/icbench/ImageNet-Sketch/sketch 
---batchsize=4
-
+--model=/path/to/model 
+--dataset=pet-37 
+--prompt_query='Which of these pets is shown in the image?' 
+--image_root=Finedefics_ICLR2025/data/pet-37
+--batchsize=2
