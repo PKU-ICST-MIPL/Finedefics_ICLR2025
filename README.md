@@ -28,7 +28,7 @@
 
 ## 📣 News
 - [04/21/2025] We release the training code and data of Finedefics!
-- [04/21/2025] We release the poster, slides, and video of Findefics.
+- [04/21/2025] We release the [poster](https://iclr.cc/media/PosterPDFs/ICLR%202025/28323.png?t=1744547699.8079863), [slides](https://iclr.cc/media/iclr-2025/Slides/28323_8XlLqgr.pdf), and [video](https://iclr.cc/virtual/2025/poster/28323) of Findefics.
 - [02/12/2025] We release the model <a href="https://huggingface.co/StevenHH2000/Finedefics"><strong>Finedefics</strong></a> and evaluation code.
 - [01/23/2025] Our work is accepted to <a href="https://iclr.cc/Conferences/2025"><strong>ICLR 2025</strong></a> 🌼! See you in Singapore this April!
 
