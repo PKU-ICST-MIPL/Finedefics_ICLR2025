@@ -72,7 +72,7 @@ Finedefics_ICLR2025
 ## ⚗ Training
 1. Download the base model [Idefics2](https://huggingface.co/HuggingFaceM4/idefics2-8b) from HuggingFace:
 ```
-huggingface-cli download HuggingFaceM4/idefics2-8b --local_dir /path/to/save/model
+huggingface-cli download HuggingFaceM4/idefics2-8b --local-dir /path/to/save/model
 ```
 After downloading, organize the directory like the following:
 ```
@@ -81,7 +81,7 @@ Finedefics_ICLR2025
           └── idefics2-8b
 ```
 
-2. We then train Finedefics using training sets of all 6 FGVR datasets.
+1. We then train Finedefics using training sets of all 6 FGVR datasets. 
 ```
 sh train.sh
 ```
