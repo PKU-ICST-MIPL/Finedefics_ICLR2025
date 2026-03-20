@@ -27,10 +27,14 @@
 
 
 ## 📣 News
-- [04/21/2025] We release the training code and data of Finedefics!
+- [04/21/2025] We release the training code and data of Finedefics! Welcome to follow our work and give us a star 🌟!
 - [04/21/2025] We release the [poster](https://iclr.cc/media/PosterPDFs/ICLR%202025/28323.png?t=1744547699.8079863), [slides](https://iclr.cc/media/iclr-2025/Slides/28323_8XlLqgr.pdf), and [video](https://iclr.cc/virtual/2025/poster/28323) of Findefics.
 - [02/12/2025] We release the model <a href="https://huggingface.co/StevenHH2000/Finedefics"><strong>Finedefics</strong></a> and evaluation code.
 - [01/23/2025] Our work is accepted to <a href="https://iclr.cc/Conferences/2025"><strong>ICLR 2025</strong></a> 🌼! See you in Singapore this April!
+
+## 🧠 More Related Research
+- **TARA** (CVPR 2026): using fine-grained category tree to boost hierarchical visual recognition capability of MLLMs. 【[Paper](https://arxiv.org/abs/2603.00431)】【[Code](https://github.com/PKU-ICST-MIPL/TARA_CVPR2026)】
+- **Fine-R1** (ICLR 2026): the first MLLM to surpass various strong CLIP-like models (e.g., SigLIP-L) in FGVR. 【[Paper](https://arxiv.org/abs/2602.07605)】【[Code](https://github.com/PKU-ICST-MIPL/FineR1_ICLR2026)】
 
 ## 💾 Installation
 
@@ -124,13 +128,27 @@ Our code is also trivial to extend to new image classification datasets:
 ## 🚩 Acknowledgments
 Our code references [FineR](https://github.com/OatmealLiu/FineR?tab=readme-ov-file#%EF%B8%8F-full-pipeline), [FOCI-Benchmark](https://github.com/gregor-ge/FOCI-Benchmark), [HACL](https://github.com/X-PLUG/mPLUG-HalOwl/tree/main/hacl). Many thanks to the authors.
 
-## 🗻 Citation
-Should you find our paper valuable to your work, we would greatly appreciate it if you could cite it:
+## 📝 Citation
+If you find it useful for your research and applications, please cite related papers using this BibTeX:
 ```bibtex
 @article{he2025analyzing,
-  title={Analyzing and Boosting the Power of Fine-Grained Visual Recognition for Multi-modal Large Language Models},
+  title={Analyzing and boosting the power of fine-grained visual recognition for multi-modal large language models},
   author={He, Hulingxiao and Li, Geng and Geng, Zijun and Xu, Jinglin and Peng, Yuxin},
   journal={arXiv preprint arXiv:2501.15140},
   year={2025}
+}
+
+@article{he2026fine,
+  title={Fine-R1: Make Multi-modal LLMs Excel in Fine-Grained Visual Recognition by Chain-of-Thought Reasoning},
+  author={He, Hulingxiao and Geng, Zijun and Peng, Yuxin},
+  journal={arXiv preprint arXiv:2602.07605},
+  year={2026}
+}
+
+@article{he2026taxonomy,
+  title={Taxonomy-Aware Representation Alignment for Hierarchical Visual Recognition with Large Multimodal Models},
+  author={He, Hulingxiao and Tan, Zhi and Peng, Yuxin},
+  journal={arXiv preprint arXiv:2603.00431},
+  year={2026}
 }
 ```
